@@ -1,0 +1,11 @@
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\bin\Debug\netcoreapp2.1\Sample LinkText Seleciton.deps.json
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\bin\Debug\netcoreapp2.1\Sample LinkText Seleciton.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\bin\Debug\netcoreapp2.1\Sample LinkText Seleciton.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\bin\Debug\netcoreapp2.1\Sample LinkText Seleciton.dll
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\obj\Debug\netcoreapp2.1\Sample LinkText Seleciton.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\obj\Debug\netcoreapp2.1\Sample LinkText Seleciton.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\obj\Debug\netcoreapp2.1\Sample LinkText Seleciton.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\obj\Debug\netcoreapp2.1\Sample LinkText Seleciton.AssemblyInfo.cs
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\bin\Debug\netcoreapp2.1\Sample LinkText Seleciton.pdb
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\obj\Debug\netcoreapp2.1\Sample LinkText Seleciton.dll
+D:\Automation\Selenium\Round-2\Sample LinkText Seleciton\obj\Debug\netcoreapp2.1\Sample LinkText Seleciton.pdb
